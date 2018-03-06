@@ -1,0 +1,8 @@
+C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping.Tests\bin\Debug\WebShopping.Tests.dll.config
+C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping.Tests\bin\Debug\WebShopping.Tests.dll
+C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping.Tests\bin\Debug\WebShopping.Tests.pdb
+C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping.Tests\bin\Debug\WebShopping.dll
+C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping.Tests\bin\Debug\WebShopping.pdb
+C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping.Tests\obj\Debug\WebShopping.Tests.csprojResolveAssemblyReference.cache
+C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping.Tests\obj\Debug\WebShopping.Tests.dll
+C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping.Tests\obj\Debug\WebShopping.Tests.pdb
