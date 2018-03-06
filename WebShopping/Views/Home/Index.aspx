@@ -11,6 +11,13 @@
     </p>
 
     <p>
+        <% foreach (var item in Model.Categories)
+       { %>
+       <li><%:Html.ActionLink(item.name, "/", new { category = item.id })%></li>
+       <%
+        } %>
+        <br />
+        <br />
     <%
         if(Model.HasPrevPage)
         {    
@@ -56,6 +63,7 @@
         }
          %>
     <br clear="left" />
+
 
     </p>
 </asp:Content>

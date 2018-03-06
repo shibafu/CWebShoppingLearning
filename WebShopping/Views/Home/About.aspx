@@ -7,6 +7,6 @@
 <asp:Content ID="aboutContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2>このサイトについて</h2>
     <p>
-        ここにコンテンツを置いてください。
+        学習用Webショッピングサイトです！
     </p>
 </asp:Content>
