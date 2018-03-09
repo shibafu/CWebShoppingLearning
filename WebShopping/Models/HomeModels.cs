@@ -25,4 +25,15 @@ namespace WebShopping.Models
         //カテゴリID
         public int? Category { get; set; }
     }
+
+    //<summary>
+    //商品情報のモデルクラス
+    //</summary>
+    public class ProductItemModel
+    {
+        // 商品情報
+        public TProduct Product { get; set; }
+        //商品詳細情報
+        public TProductDetail ProductDetail { get; set; }
+    }
 }

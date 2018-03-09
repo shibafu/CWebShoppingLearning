@@ -56,6 +56,7 @@ namespace WebShopping.Controllers
                 else
                 {
                     ModelState.AddModelError("", "指定されたユーザー名またはパスワードが正しくありません。");
+                    ViewData["LogOnError"] = "ユーザー名またはパスワードをお忘れの場合はメールで連絡してください";
                 }
             }
 

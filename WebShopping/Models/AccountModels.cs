@@ -7,7 +7,6 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Security;
-
 namespace WebShopping.Models
 {
 
@@ -69,6 +68,13 @@ namespace WebShopping.Models
         [DataType(DataType.Password)]
         [DisplayName("パスワードの確認入力")]
         public string ConfirmPassword { get; set; }
+
+        [DisplayName("名前")]
+        public string Name { get; set; }
+
+        [DisplayName("生年月日")]
+        [DataType(DataType.Date)]
+        public DateTime Birthday { get; set; }
     }
     #endregion
 

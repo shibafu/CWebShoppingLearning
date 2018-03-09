@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\work\Desktop" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="Default Web Site/WebShopping" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="テストプロファイル" publishMethod="FileSystem" replaceMatchingFiles="True" userName="webdeploy" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Views/Home/Index.aspx" publishTime="03/07/2018 11:19:09" />
+    <file relUrl="Scripts/MicrosoftAjax.js" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Global.asax" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Views/Home/Item.aspx" publishTime="03/07/2018 11:20:38" />
+    <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Views/Shared/LogOnUserControl.ascx" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.debug.js" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Views/Home/About.aspx" publishTime="03/06/2018 17:41:21" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.debug.js" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Scripts/jquery.validate.min.js" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Views/Shared/Site.Master" publishTime="03/07/2018 11:25:37" />
+    <file relUrl="Scripts/jquery.validate.js" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Views/Account/LogOn.aspx" publishTime="03/07/2018 11:51:51" />
+    <file relUrl="Views/Account/Register.aspx" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Views/Account/ChangePassword.aspx" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="bin/WebShopping.dll" publishTime="03/09/2018 13:34:38" />
+    <file relUrl="Views/Account/ChangePasswordSuccess.aspx" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="bin/WebShopping.pdb" publishTime="03/09/2018 13:34:38" />
+    <file relUrl="Views/Home/Error.aspx" publishTime="03/07/2018 10:27:41" />
+    <file relUrl="Views/Shared/Error.aspx" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Web.config" publishTime="03/09/2018 13:24:24" />
+    <file relUrl="Content/Site.css" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Views/Web.config" publishTime="03/06/2018 16:00:59" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="03/06/2018 16:00:59" />
+  </publishProfile>
+</publishData>

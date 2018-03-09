@@ -19,7 +19,7 @@ namespace WebShopping.Tests.Controllers
             HomeController controller = new HomeController();
 
             // 実行
-            ViewResult result = controller.Index(null) as ViewResult;
+            ViewResult result = controller.Index(null, null) as ViewResult;
 
             // アサート
             ViewDataDictionary viewData = result.ViewData;

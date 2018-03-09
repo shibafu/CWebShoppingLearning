@@ -86,7 +86,43 @@ namespace WebShopping.Controllers
             return View(model);
         }
 
+        public ActionResult Item(String id)
+        {
+            //web.configから接続文字列を取得
+            String cnstr = ConfigurationManager.ConnectionStrings[
+                "mvcdbConnectionString"].ConnectionString;
+            //データベースに接続する
+            DataContext dc = new DataContext(cnstr);
+            //商品情報を取得
+            ProductItemModel model = new ProductItemModel();
+
+            try
+            {
+                //商品情報を取得
+                model.Product = (from p in dc.GetTable<TProduct>()
+                                 where p.id == id
+                                 select p
+                                    ).Single<TProduct>();
+                //商品詳細情報を取得
+                model.ProductDetail = (from p in dc.GetTable<TProductDetail>()
+                                       where p.id == id
+                                       select p
+                                                ).Single<TProductDetail>();
+            }
+            catch
+            {
+                return Redirect("/Home/Error");
+            }
+
+            return View(model);
+        }
+
         public ActionResult About()
+        {
+            return View();
+        }
+
+        public ActionResult Error()
         {
             return View();
         }

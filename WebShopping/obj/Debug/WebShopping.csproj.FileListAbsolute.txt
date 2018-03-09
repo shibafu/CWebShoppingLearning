@@ -2,3 +2,4 @@ C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShoppi
 C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping\bin\WebShopping.pdb
 C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping\obj\Debug\WebShopping.dll
 C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping\obj\Debug\WebShopping.pdb
+C:\Users\work\Documents\Visual Studio 2010\Projects\学習\WebShopping\WebShopping\obj\Debug\WebShopping.csprojResolveAssemblyReference.cache
